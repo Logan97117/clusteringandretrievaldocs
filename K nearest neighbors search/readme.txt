@@ -1,2 +1,2 @@
 A case study of 60000 wikipedia articles.
-It contains the analysis of using different ttypes of feature extraction methods and different similarity measures for document retrieval using nearest neighbor search.
+It contains the effect of using different types of feature extraction methods and different similarity measures on retrieval results.
